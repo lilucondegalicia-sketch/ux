@@ -430,7 +430,7 @@
             <div class="text-center max-w-3xl mx-auto mb-16">
                 <div class="inline-block p-3 rounded-2xl bg-stone-100 text-stone-600 mb-4 text-3xl">🧰</div>
                 <h2 class="text-3xl font-bold text-stone-900 mb-4">Caja de Herramientas</h2>
-                <p class="text-stone-500">Estas plataformas son solo referencias populares. Elige las herramientas que mejor se ajusten a tu equipo y presupuesto.</p>
+                <p class="text-stone-500">Estas plataformas son solo referencias populares.</p>
             </div>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <div class="bg-white p-8 rounded-2xl border border-stone-200 shadow-sm hover:shadow-md hover:border-teal-300 transition-all">
